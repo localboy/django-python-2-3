@@ -1,5 +1,5 @@
 # django-python-2-3
-Making your Djabgo project compatible with both Python versions consists of the following steps:
+Making your Django project compatible with both Python versions consists of the following steps:
 
 1. Add `from __future__ import unicode_literals` at the top of each module
 and then use usual quotes without a `u` prefix for Unicode strings and a `b` prefix for
